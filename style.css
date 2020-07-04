@@ -1,0 +1,16 @@
+
+        h1{
+            color: red;
+            background-color: blue;
+            font-weight: 900;
+            font-size: 20px;
+            width: 30%;
+        }
+        #fane:hover{
+            color: black;
+            font-weight:lighter;
+            font-size: xx-large;
+        }
+        #none:hover{
+            background-color: khaki;
+        }
